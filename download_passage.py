@@ -87,7 +87,7 @@ if __name__ == "__main__":
             print("Downloading passage: {}".format(book))
             write_text(text, book)
         else:
-            # get_esv_book(book)
+            get_esv_book(book)
             pass
 
 
